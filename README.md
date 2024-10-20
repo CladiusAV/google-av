@@ -5,7 +5,7 @@ You comment from no liability and warranty.
 1. its safe on your software on the side.
 2. Put your licenses to 'GNU Affero Public License'.
 # Visit the website
-the website is (gnu.com/gnu-affero-public-license-v2.0)
+the website is (https://gnu.com/gnu-affero-public-license-v2.0)
 and for The licenses and good luck.
 # No emojis
 the emojis are no longer licenses She banned by Authors.
