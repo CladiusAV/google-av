@@ -18,9 +18,9 @@ and uses liability and warranty.
    i hope you fun!
    # Third Parties
    third parties should look the Licenses:
-   libzip: libzip.org/license
-   libpng: libpng.org/404
-   libhsa: github.com/google-play-services/html/libhsa/fran-tone/LICENSE
+   libzip: https://libzip.org/license
+   libpng: https://libpng.org/license
+   libhsa: https://github.com/google-play-services/html/libhsa/fran-tone/LICENSE
    libjpg: https://libjpg.com/licenes/flower/xnnnpack/libjpg/LICENSE
 
 # Last: No liability
